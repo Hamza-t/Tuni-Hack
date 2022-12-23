@@ -1,0 +1,210 @@
+,Gender,Are you above 30 years of age?,Employment Status,City,How are you feeling today?,Have you been eating and sleeping well?,(If sad)have you been in the same mental state for the past few days?,Is your sadness momentarily or has it been constant for a long time? (last month),At what time of the day are you extremely low?,Has there been a sudden and huge change in your life?,Your stress is related to which of the following areas?,How frequently have you had little pleasure or interest in the activities you usually enjoy?,How confident you have been feeling in your capabilities recently.,"Describe how supported you feel by others around you ( your friends, family, or otherwise.)",How frequently have you been doing things that mean something to you or your life?,"If you have a mental health condition, do you feel that it interferes with your work?",Have you taken any therapy or medication in the near past for mental health?,"Having trouble concentrating on things, such as reading the newspaper or watching television, or studying?",Do you feel bad about yourself or that you are a failure or have let yourself or your family down?,"How many hours do you spend per day on watching mobile phone, laptop, computer, television, etc.?",How often do you get offended or angry or start crying ?,"How often do you make use of substance abuse(e.g. smoking, alcohol)?",How likely do you feel yourself vulnerable or lonely?,How comfortable are you in talking about your mental health?,Prediction_status
+0,Female,Yes,Student,Tier 1 (large city),Good,No,no,Not sad,Afternoon,no,Financial,Often,3,Satisfactory,Very Often,no,no,yes,yes,2-5 hours,Never,Never,2.0,1.0,No
+1,Male,No,Student,Tier 2 (meduim city),Good,Yes,no,Not sad,Evening,no,None,Very Often,3,Highly supportive,Often,no,no,no,no,2-5 hours,Sometimes,Never,2.0,3.0,Yes
+2,Male,No,Student,Tier 1 (large city),Good,Yes,maybe,Significant time,Afternoon,no,Work,Sometimes,3,Satisfactory,Sometimes,yes,no,yes,no,More than 10 hours,Sometimes,Never,3.0,3.0,Yes
+3,Male,No,Student,Tier 3 (little cities/towns),Good,No,maybe,Not sad,Afternoon,not sure,Personal,Sometimes,1,Satisfactory,Sometimes,maybe,maybe,no,maybe,2-5 hours,Sometimes,Sometimes,1.0,3.0,No
+4,Female,No,Student,Tier 2 (meduim city),Sad,Yes,yes,Not sad,Afternoon,no,Personal,Often,3,Highly supportive,Very Often,maybe,no,no,no,2-5 hours,Sometimes,Never,4.0,4.0,No
+5,Male,No,Unemployed,Tier 3 (little cities/towns),Fine,No,maybe,Not sad,Evening,yes,Home,Very Often,2,Little bit,Often,maybe,no,yes,maybe,1-2 hours,Never,Never,2.0,1.0,No
+6,Female,No,Student,Tier 3 (little cities/towns),Sad,No,yes,For some time,Afternoon,no,Personal,Sometimes,4,Satisfactory,Sometimes,maybe,no,yes,maybe,2-5 hours,Sometimes,Never,2.0,4.0,No
+7,Male,No,Student,Tier 1 (large city),Good,No,no,Not sad,Afternoon,no,Personal,Often,4,Satisfactory,Sometimes,yes,no,yes,maybe,2-5 hours,Sometimes,Very Often,3.0,4.0,Yes
+8,Female,No,Student,Tier 3 (little cities/towns),Fine,Yes,yes,Not sad,Evening,no,Work,Very Often,4,Highly supportive,Often,no,no,maybe,no,1-2 hours,Sometimes,Never,5.0,5.0,Yes
+9,Male,No,Student,Tier 3 (little cities/towns),Fine,No,yes,For some time,Afternoon,no,Work,Sometimes,2,Satisfactory,Sometimes,yes,no,yes,yes,2-5 hours,Often,Often,4.0,2.0,Yes
+10,Female,No,Student,Tier 3 (little cities/towns),Depressed,No,maybe,Not sad,Afternoon,no,"Personal, Work",Very Often,4,Satisfactory,Very Often,no,no,maybe,maybe,1-2 hours,Often,Never,4.0,5.0,No
+11,Male,No,Student,Tier 1 (large city),Good,Yes,no,Long time,Evening,no,"Work, Financial",Often,3,Satisfactory,Sometimes,maybe,no,no,no,More than 10 hours,Sometimes,Sometimes,2.0,1.0,Yes
+12,Male,No,Student,Tier 2 (meduim city),Sad,No,maybe,Not sad,Morning,yes,Work,Sometimes,2,Little bit,Sometimes,yes,maybe,maybe,maybe,2-5 hours,Sometimes,Sometimes,3.0,3.0,No
+13,Female,Yes,Employed,Tier 3 (little cities/towns),Fine,Yes,yes,Not sad,Morning,no,"Personal, Financial",Often,4,Highly supportive,Sometimes,no,no,maybe,no,2-5 hours,Sometimes,Often,4.0,4.0,No
+14,Female,No,Student,Tier 3 (little cities/towns),Fine,Yes,yes,Not sad,Morning,no,Personal,Very Often,4,Highly supportive,Very Often,no,no,no,no,2-5 hours,Sometimes,Never,4.0,5.0,Yes
+15,Male,No,Student,Tier 1 (large city),Fine,Yes,maybe,Not sad,Morning,not sure,"Personal, Work, Financial",Often,3,Highly supportive,Often,maybe,maybe,no,no,1-2 hours,Never,Never,3.0,3.0,No
+16,Male,No,Student,Tier 1 (large city),Good,Yes,no,Not sad,Morning,yes,Work,Very Often,3,Highly supportive,Often,no,no,no,no,2-5 hours,Often,Often,2.0,3.0,Yes
+17,Female,No,Student,Tier 1 (large city),Sad,No,maybe,For some time,Evening,not sure,Work,Sometimes,1,Highly supportive,Sometimes,yes,no,yes,yes,More than 10 hours,Very often,Never,3.0,3.0,No
+18,Female,No,Student,Tier 3 (little cities/towns),Depressed,No,maybe,Not sad,Morning,no,Work,Never,4,Satisfactory,Sometimes,yes,no,maybe,yes,2-5 hours,Sometimes,Never,5.0,5.0,No
+19,Female,No,Employed,Tier 3 (little cities/towns),Fine,Yes,yes,Significant time,Afternoon,yes,Personal,Often,3,Little bit,Sometimes,maybe,no,no,no,2-5 hours,Sometimes,Never,4.0,1.0,No
+20,Female,No,Student,Tier 3 (little cities/towns),Good,Yes,no,Not sad,Morning,no,Personal,Often,1,Highly supportive,Very Often,maybe,no,maybe,no,More than 10 hours,Sometimes,Never,5.0,2.0,Yes
+21,Male,No,Student,Tier 3 (little cities/towns),Good,No,maybe,Not sad,Morning,yes,Home,Very Often,2,Little bit,Sometimes,maybe,yes,yes,yes,2-5 hours,Sometimes,Often,3.0,4.0,Yes
+22,Female,No,Employed,Tier 2 (meduim city),Depressed,No,yes,Not sad,Evening,no,"Work, Financial",Sometimes,3,Highly supportive,Sometimes,yes,no,yes,no,More than 10 hours,Sometimes,Never,5.0,4.0,No
+23,Female,No,Student,Tier 3 (little cities/towns),Good,Yes,no,Long time,Evening,yes,Home,Sometimes,2,Satisfactory,Often,maybe,no,yes,maybe,1-2 hours,Sometimes,Never,4.0,2.0,Yes
+24,Female,No,Student,Tier 1 (large city),Good,Yes,maybe,Not sad,Evening,yes,"Personal, Work",Sometimes,3,Satisfactory,Often,yes,no,yes,maybe,2-5 hours,Sometimes,Never,3.0,4.0,Yes
+25,Male,No,Self-Employed,Tier 2 (meduim city),Good,Yes,no,For some time,Evening,yes,Work,Sometimes,3,Little bit,Very Often,yes,no,yes,no,More than 10 hours,Sometimes,Often,2.0,3.0,No
+26,Male,No,Student,Tier 1 (large city),Good,Yes,no,For some time,Evening,not sure,Personal,Sometimes,3,Satisfactory,Often,yes,no,yes,maybe,More than 10 hours,Sometimes,Often,4.0,4.0,Yes
+27,Male,No,Student,Tier 1 (large city),Good,Yes,no,Not sad,Morning,no,Work,Often,3,Satisfactory,Often,maybe,no,yes,yes,2-5 hours,Often,Very Often,3.0,2.0,No
+28,Male,No,Student,Tier 1 (large city),Good,Yes,yes,Not sad,Morning,not sure,Work,Never,4,Satisfactory,Often,no,no,no,no,2-5 hours,Sometimes,Often,1.0,4.0,No
+29,Female,No,Student,Tier 2 (meduim city),Fine,Yes,maybe,Not sad,Afternoon,no,Personal,Sometimes,4,Satisfactory,Often,maybe,no,yes,yes,2-5 hours,Sometimes,Never,2.0,2.0,No
+30,Male,No,Student,Tier 1 (large city),Good,No,yes,For some time,Evening,no,Work,Often,2,Satisfactory,Sometimes,yes,no,yes,yes,2-5 hours,Often,Often,3.0,3.0,Yes
+31,Male,No,Employed,Tier 1 (large city),Good,No,no,Long time,Evening,no,"Personal, Work",Very Often,2,Little bit,Often,yes,no,yes,no,More than 10 hours,Never,Sometimes,4.0,4.0,Yes
+32,Male,No,Student,Tier 1 (large city),Depressed,No,yes,Long time,Afternoon,not sure,"Personal, Work, Financial, Home",Sometimes,4,Little bit,Often,maybe,no,no,no,2-5 hours,Sometimes,Very Often,3.0,5.0,No
+33,Male,No,Student,Tier 2 (meduim city),Good,No,no,Not sad,Evening,no,"Work, Financial",Sometimes,2,Little bit,Often,no,no,yes,no,More than 10 hours,Never,Never,3.0,2.0,Yes
+34,Male,No,Student,Tier 2 (meduim city),Good,Yes,no,Not sad,Afternoon,no,Work,Often,3,Satisfactory,Often,yes,no,yes,no,2-5 hours,Sometimes,Never,3.0,3.0,Yes
+35,Male,No,Employed,Tier 2 (meduim city),Sad,No,no,Not sad,Evening,not sure,"Personal, Work, Financial",Often,3,Little bit,Sometimes,yes,no,yes,yes,More than 10 hours,Sometimes,Sometimes,4.0,3.0,Yes
+36,Male,No,Student,Tier 1 (large city),Good,No,yes,For some time,Evening,yes,"Personal, Work",Sometimes,2,Highly supportive,Sometimes,no,no,yes,yes,More than 10 hours,Never,Often,4.0,4.0,Yes
+37,Female,No,Student,Tier 1 (large city),Good,No,maybe,Not sad,Afternoon,yes,Personal,Sometimes,3,Little bit,Sometimes,yes,no,yes,yes,5-10 hours,Sometimes,Never,3.0,4.0,No
+38,Female,No,Student,Tier 2 (meduim city),Fine,Yes,maybe,For some time,Evening,not sure,"Financial, Home",Sometimes,2,Satisfactory,Very Often,yes,no,yes,no,5-10 hours,Very often,Never,5.0,3.0,Yes
+39,Male,No,Student,Tier 3 (little cities/towns),Fine,Yes,no,Not sad,Afternoon,not sure,Personal,Sometimes,4,Satisfactory,Often,no,no,no,no,2-5 hours,Sometimes,Never,3.0,2.0,No
+40,Female,No,Student,Tier 2 (meduim city),Good,Yes,yes,Not sad,Morning,no,"Personal, Work",Very Often,4,Highly supportive,Very Often,no,no,maybe,no,2-5 hours,Often,Never,2.0,4.0,No
+41,Female,No,Student,Tier 3 (little cities/towns),Sad,Yes,no,Not sad,Morning,no,Personal,Very Often,4,Highly supportive,Very Often,maybe,no,yes,no,1-2 hours,Very often,Never,2.0,5.0,No
+42,Female,No,Student,Tier 1 (large city),Good,No,no,For some time,Morning,yes,Personal,Very Often,4,Highly supportive,Sometimes,no,no,yes,no,2-5 hours,Sometimes,Never,1.0,3.0,No
+43,Male,No,Student,Tier 2 (meduim city),Sad,Yes,maybe,For some time,Evening,yes,"Personal, Work, Home",Very Often,2,Highly supportive,Sometimes,maybe,no,maybe,yes,More than 10 hours,Often,Never,4.0,4.0,No
+44,Female,No,Student,Tier 3 (little cities/towns),Sad,Yes,yes,Long time,Afternoon,yes,"Personal, Work",Sometimes,1,Highly supportive,Often,yes,no,yes,yes,2-5 hours,Often,Never,4.0,5.0,No
+45,Male,No,Student,Tier 1 (large city),Good,No,maybe,Not sad,Morning,no,Personal,Sometimes,5,Satisfactory,Often,yes,no,yes,maybe,5-10 hours,Never,Never,4.0,1.0,Yes
+46,Male,No,Employed,Tier 1 (large city),Depressed,No,yes,Long time,Afternoon,not sure,"Personal, Work",Very Often,2,Little bit,Sometimes,yes,no,yes,yes,More than 10 hours,Often,Very Often,4.0,4.0,No
+47,Female,No,Student,Tier 3 (little cities/towns),Good,Yes,yes,Not sad,Evening,no,Work,Very Often,4,Highly supportive,Very Often,no,no,no,no,1-2 hours,Very often,Never,1.0,5.0,Yes
+48,Female,No,Student,Tier 2 (meduim city),Good,Yes,yes,Not sad,Morning,no,Personal,Very Often,5,Highly supportive,Very Often,no,maybe,no,no,1-2 hours,Often,Never,1.0,5.0,Yes
+49,Female,No,Student,Tier 3 (little cities/towns),Fine,Yes,yes,Not sad,Morning,no,Personal,Very Often,4,Highly supportive,Never,no,maybe,no,no,1-2 hours,Often,Never,3.0,5.0,No
+50,Female,No,Student,Tier 2 (meduim city),Good,Yes,no,Not sad,Evening,no,"Personal, Work",Very Often,4,Highly supportive,Never,yes,no,no,maybe,2-5 hours,Often,Never,2.0,4.0,Yes
+51,Female,No,Student,Tier 3 (Other cities/towns),Fine,Yes,No,For some time,Evening,No,Personal,Very Often,4,Highly supportive,Sometimes,Yes,No,No,No,2-5 hours,Sometimes,Never,4.0,5.0,Yes
+52,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Yes,For some time,Morning,Yes,Personal,Sometimes,2,Little bit,Sometimes,Yes,No,Yes,Yes,2-5 hours,Sometimes,Never,4.0,5.0,No
+53,Male,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,No,Maybe,Significant time,Evening,No,Personal,Never,2,Little bit,Never,No,No,Maybe,Maybe,More than 10 hours,Sometimes,Never,2.0,5.0,No
+54,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,Maybe,Significant time,Evening,Not sure,"Home, Work, Personal",Sometimes,2,Satisfactory,Sometimes,Yes,No,Yes,Yes,2-5 hours,Often,Never,4.0,5.0,Yes
+55,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,Yes,Personal,Very Often,3,Satisfactory,Often,Yes,No,No,No,5-10 hours,Sometimes,Never,4.0,5.0,No
+56,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,Maybe,Significant time,Evening,Not sure,"Home, Work, Personal",Sometimes,1,Satisfactory,Sometimes,Yes,No,Yes,Yes,2-5 hours,Sometimes,Never,4.0,5.0,Yes
+57,Female,No,Student,Tier 3 (Other cities/towns),Sad,No,Maybe,For some time,Afternoon,Yes,Personal,Sometimes,2,Satisfactory,Never,Maybe,No,No,Yes,2-5 hours,Very often,Never,4.0,5.0,Yes
+58,Female,No,Student,Tier 3 (Other cities/towns),Sad,Maybe,Yes,For some time,Afternoon,Yes,Personal,Often,3,Satisfactory,Sometimes,Maybe,No,Yes,Maybe,5-10 hours,Very often,Never,3.0,5.0,Yes
+59,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Significant time,Evening,Yes,Personal,Sometimes,3,Little bit,Sometimes,Maybe,No,Yes,Yes,2-5 hours,Very often,Never,3.0,5.0,Yes
+60,Female,No,Unemployed,Tier 3 (Other cities/towns),Fine,No,Yes,For some time,Morning,Yes,Personal,Often,3,Little bit,Sometimes,Maybe,Maybe,Yes,No,2-5 hours,Very often,Never,3.0,5.0,Yes
+61,Male,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Not sad,Evening,No,"Home, Work, Personal",Often,3,Highly supportive,Often,Yes,No,Yes,Yes,2-5 hours,Very often,Never,1.0,5.0,Yes
+62,Male,No,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,For some time,Afternoon,Yes,None,Very Often,4,Highly supportive,Often,Yes,No,No,No,5-10 hours,Sometimes,Never,4.0,5.0,No
+63,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Not sad,Afternoon,No,Work,Sometimes,3,Highly supportive,Very Often,Yes,No,Yes,Maybe,1-2 hours,Very often,Never,3.0,5.0,No
+64,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Afternoon,Not sure,"Work, Personal",Very Often,3,Highly supportive,Often,Maybe,No,Yes,Maybe,2-5 hours,Often,Never,2.0,5.0,No
+65,Male,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Morning,No,None,Often,5,Satisfactory,Often,No,No,No,No,5-10 hours,Sometimes,Often,2.0,5.0,No
+66,Female,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Sad,Yes,No,Long time,Evening,Yes,"Home, Work, Financial, Personal",Sometimes,4,Little bit,Often,No,No,No,Yes,1-2 hours,Sometimes,Never,4.0,5.0,Yes
+67,Male,No,Student,Tier 3 (Other cities/towns),Fine,Yes,No,Long time,Morning,Yes,Personal,Sometimes,2,Little bit,Often,No,No,Yes,Yes,2-5 hours,Very often,Never,4.0,5.0,Yes
+68,Female,Yes,Unemployed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Sad,Maybe,No,For some time,Evening,Yes,Personal,Often,5,Satisfactory,Often,Yes,No,No,No,2-5 hours,Very often,Never,5.0,5.0,Yes
+69,Female,No,Student,Tier 3 (Other cities/towns),Sad,No,Yes,For some time,Morning,Not sure,Personal,Sometimes,2,Little bit,Sometimes,No,No,No,No,2-5 hours,Sometimes,Never,3.0,5.0,No
+70,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,Not sure,"Financial, Personal",Often,4,Highly supportive,Often,Maybe,No,Maybe,Maybe,2-5 hours,Often,Never,3.0,5.0,No
+71,Male,No,Student,Tier 3 (Other cities/towns),Fine,Yes,No,Not sad,Morning,No,Work,Sometimes,3,Satisfactory,Often,Maybe,No,Yes,Maybe,2-5 hours,Never,Never,3.0,5.0,No
+72,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Evening,Yes,Personal,Sometimes,3,Highly supportive,Very Often,Maybe,No,Yes,Yes,2-5 hours,Sometimes,Never,1.0,5.0,No
+73,Male,No,Student,Tier 3 (Other cities/towns),Good,Yes,Yes,Not sad,Morning,No,None,Very Often,5,Highly supportive,Very Often,No,No,No,No,2-5 hours,Never,Never,1.0,5.0,No
+74,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Not sad,Afternoon,No,"Work, Personal",Often,4,Highly supportive,Very Often,Maybe,No,Yes,Maybe,2-5 hours,Very often,Never,2.0,5.0,No
+75,Male,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,Not sure,None,Often,5,Satisfactory,Very Often,Yes,No,No,No,1-2 hours,Sometimes,Never,3.0,5.0,No
+76,Male,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Not sad,Evening,Yes,Work,Sometimes,2,Satisfactory,Sometimes,Yes,Yes,Yes,Maybe,More than 10 hours,Very often,Never,4.0,5.0,Yes
+77,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,No,For some time,Evening,Not sure,"Home, Work",Very Often,4,Highly supportive,Often,Yes,No,Maybe,Yes,2-5 hours,Very often,Never,4.0,5.0,Yes
+78,Female,Yes,Unemployed,Tier 3 (Other cities/towns),Fine,Yes,Yes,For some time,Morning,Yes,Personal,Sometimes,5,Highly supportive,Sometimes,No,No,No,No,1-2 hours,Sometimes,Never,1.0,5.0,No
+79,Male,No,Unemployed,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,Maybe,Not sad,Afternoon,Not sure,None,Often,4,Highly supportive,Often,No,No,No,No,2-5 hours,Sometimes,Never,3.0,5.0,No
+80,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Morning,No,Work,Very Often,3,Satisfactory,Very Often,Yes,No,No,No,More than 10 hours,Sometimes,Never,1.0,5.0,No
+81,Male,No,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Yes,No,Not sad,Evening,No,None,Sometimes,4,Highly supportive,Sometimes,No,No,No,No,2-5 hours,Sometimes,Never,3.0,5.0,No
+82,Female,No,Student,Tier 3 (Other cities/towns),Depressed,Maybe,No,For some time,Evening,No,Work,Often,4,Little bit,Sometimes,Yes,No,Yes,Maybe,5-10 hours,Sometimes,Never,2.0,5.0,Yes
+83,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Yes,For some time,Evening,No,"Home, Financial, Personal",Sometimes,3,Satisfactory,Sometimes,Yes,No,No,Maybe,5-10 hours,Often,Never,4.0,5.0,Yes
+84,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Morning,No,Work,Very Often,3,Satisfactory,Very Often,Yes,No,No,No,More than 10 hours,Sometimes,Never,1.0,5.0,No
+85,Male,No,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,Yes,Not sad,Evening,No,None,Sometimes,5,Highly supportive,Sometimes,No,No,No,No,1-2 hours,Never,Sometimes,1.0,5.0,No
+86,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,No,Personal,Very Often,4,Satisfactory,Sometimes,Yes,No,No,Yes,2-5 hours,Often,Sometimes,4.0,5.0,Yes
+87,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,Yes,For some time,Afternoon,Not sure,Work,Sometimes,3,Highly supportive,Sometimes,Maybe,No,No,No,1-2 hours,Sometimes,Never,2.0,5.0,No
+88,Male,No,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,No,No,For some time,Evening,No,None,Sometimes,4,Satisfactory,Very Often,No,No,No,No,5-10 hours,Never,Sometimes,1.0,5.0,No
+89,Female,Yes,Unemployed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,Maybe,Not sad,Evening,Not sure,None,Often,5,Satisfactory,Very Often,Yes,No,No,No,1-2 hours,Sometimes,Never,2.0,5.0,No
+90,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,No,"Financial, Personal",Sometimes,3,Highly supportive,Sometimes,Yes,Yes,No,Maybe,2-5 hours,Often,Never,2.0,5.0,No
+91,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,Yes,Significant time,Evening,Not sure,"Home, Personal",Sometimes,2,Highly supportive,Sometimes,No,No,Yes,Yes,More than 10 hours,Often,Never,4.0,5.0,Yes
+92,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,Maybe,Long time,Evening,Not sure,None,Sometimes,1,Little bit,Sometimes,No,No,Maybe,Maybe,2-5 hours,Very often,Often,5.0,1.0,Yes
+93,Male,Yes,Employed,Tier 3 (Other cities/towns),Good,No,No,Significant time,Morning,Not sure,"Work, Personal",Sometimes,5,Satisfactory,Sometimes,Yes,No,No,No,5-10 hours,Never,Never,2.0,4.0,Yes
+94,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,Yes,Yes,Significant time,Evening,Yes,"Work, Financial, Personal",Sometimes,2,Not at all,Never,Yes,No,Yes,Yes,More than 10 hours,Very often,Never,4.0,2.0,Yes
+95,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Yes,Significant time,Morning,No,"Home, Work",Never,3,Not at all,Often,Yes,No,Maybe,Yes,2-5 hours,Sometimes,Never,4.0,4.0,No
+96,Female,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Maybe,Yes,For some time,Evening,Not sure,None,Sometimes,3,Satisfactory,Sometimes,Maybe,No,Yes,Maybe,5-10 hours,Sometimes,Never,4.0,5.0,Yes
+97,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Evening,Yes,Work,Very Often,5,Satisfactory,Often,Yes,No,Yes,Yes,2-5 hours,Very often,Often,4.0,4.0,Yes
+98,Female,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Morning,Yes,Home,Sometimes,3,Highly supportive,Sometimes,Yes,No,Yes,No,More than 10 hours,Sometimes,Never,1.0,3.0,No
+99,Female,Yes,Self-Employed,Tier 3 (Other cities/towns),Good,No,No,Significant time,Evening,Yes,None,Sometimes,4,Satisfactory,Often,Yes,No,No,No,2-5 hours,Sometimes,Never,3.0,5.0,No
+100,Female,No,Student,Tier 3 (Other cities/towns),Fine,Maybe,No,For some time,Evening,No,None,Sometimes,2,Little bit,Often,Maybe,No,Yes,Maybe,2-5 hours,Often,Never,5.0,2.0,No
+101,Female,No,Student,Tier 3 (Other cities/towns),Fine,Yes,No,Not sad,Afternoon,Yes,None,Often,3,Satisfactory,Sometimes,No,No,No,Yes,5-10 hours,Often,Sometimes,4.0,4.0,Yes
+102,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,No,Personal,Very Often,5,Little bit,Often,No,No,No,No,1-2 hours,Never,Never,2.0,5.0,No
+103,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,Maybe,For some time,Afternoon,No,"Home, Personal",Sometimes,2,Not at all,Often,Maybe,No,Yes,Maybe,5-10 hours,Never,Never,4.0,5.0,Yes
+104,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,No,None,Often,5,Highly supportive,Often,No,No,No,No,5-10 hours,Often,Never,1.0,5.0,No
+105,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,Maybe,Long time,Evening,Yes,Personal,Sometimes,1,Satisfactory,Sometimes,Yes,No,No,Yes,More than 10 hours,Very often,Never,5.0,5.0,Yes
+106,Male,No,Unemployed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,Maybe,For some time,Evening,No,"Financial, Personal",Often,4,Highly supportive,Sometimes,No,No,No,No,2-5 hours,Never,Often,2.0,4.0,Yes
+107,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Maybe,For some time,Afternoon,Not sure,Personal,Very Often,3,Satisfactory,Often,No,No,Maybe,Maybe,5-10 hours,Often,Never,4.0,3.0,Yes
+108,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Maybe,Significant time,Evening,Yes,"Home, Work, Personal",Sometimes,3,Little bit,Sometimes,Yes,Yes,Yes,Yes,2-5 hours,Very often,Never,5.0,5.0,Yes
+109,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,No,Not sad,Afternoon,No,None,Sometimes,4,Satisfactory,Often,Maybe,No,No,Maybe,More than 10 hours,Never,Never,1.0,4.0,No
+110,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Evening,No,None,Very Often,4,Highly supportive,Often,Maybe,No,No,No,1-2 hours,Never,Never,1.0,5.0,No
+111,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,Yes,Long time,Evening,Not sure,"Home, Work, Financial, Personal",Very Often,1,Satisfactory,Never,Yes,Yes,Yes,Yes,1-2 hours,Very often,Never,5.0,3.0,Yes
+112,Female,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,For some time,Evening,Yes,Financial,Sometimes,2,Highly supportive,Very Often,Yes,No,Yes,Yes,2-5 hours,Often,Never,4.0,4.0,No
+113,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Yes,Significant time,Morning,Yes,"Home, Work, Personal",Sometimes,3,Little bit,Often,Maybe,Maybe,Maybe,Yes,2-5 hours,Very often,Never,4.0,3.0,Yes
+114,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,No,Work,Sometimes,3,Satisfactory,Often,Maybe,No,Maybe,Yes,1-2 hours,Often,Never,3.0,5.0,No
+115,Male,Yes,Unemployed,Tier 2 (Capital cities Eg. Lucknow ),Sad,Yes,No,For some time,Afternoon,Yes,Work,Very Often,5,Satisfactory,Very Often,No,No,Maybe,No,More than 10 hours,Very often,Often,1.0,4.0,Yes
+116,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Maybe,For some time,Morning,Not sure,Work,Sometimes,4,Highly supportive,Often,No,No,No,No,2-5 hours,Sometimes,Never,2.0,4.0,No
+117,Male,No,Student,Tier 3 (Other cities/towns),Good,Maybe,No,Significant time,Afternoon,No,"Work, Personal",Often,4,Satisfactory,Often,Yes,No,No,No,More than 10 hours,Sometimes,Sometimes,3.0,4.0,Yes
+118,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Evening,Yes,"Work, Financial",Often,4,Satisfactory,Often,Yes,Yes,Maybe,Yes,5-10 hours,Sometimes,Never,5.0,5.0,Yes
+119,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Morning,Yes,None,Sometimes,4,Not at all,Sometimes,Yes,No,Yes,Yes,1-2 hours,Sometimes,Sometimes,2.0,5.0,No
+120,Male,Yes,Unemployed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Yes,For some time,Evening,Not sure,"Work, Financial",Often,4,Highly supportive,Often,No,No,No,No,2-5 hours,Sometimes,Sometimes,4.0,3.0,Yes
+121,Female,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,No,No,For some time,Afternoon,No,Work,Often,4,Satisfactory,Often,No,No,No,No,More than 10 hours,Sometimes,Never,3.0,3.0,No
+122,Male,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,Not sad,Afternoon,No,None,Sometimes,5,Highly supportive,Very Often,No,No,No,No,2-5 hours,Never,Never,2.0,5.0,No
+123,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,Maybe,For some time,Afternoon,No,"Home, Personal",Very Often,4,Satisfactory,Sometimes,Yes,No,No,No,2-5 hours,Very often,Never,2.0,4.0,Yes
+124,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,Yes,Long time,Evening,No,"Work, Financial",Sometimes,3,Little bit,Sometimes,Yes,Yes,Yes,Yes,1-2 hours,Sometimes,Often,4.0,2.0,Yes
+125,Female,Yes,Self-Employed,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Evening,No,"Home, Personal",Often,4,Satisfactory,Often,Maybe,Yes,No,No,2-5 hours,Sometimes,Never,4.0,3.0,No
+126,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Evening,Yes,Personal,Very Often,3,Highly supportive,Very Often,Maybe,Yes,No,No,5-10 hours,Sometimes,Never,2.0,4.0,No
+127,Male,No,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Yes,Yes,Long time,Afternoon,Yes,Personal,Often,4,Little bit,Sometimes,No,No,No,Yes,2-5 hours,Sometimes,Never,4.0,4.0,Yes
+128,Male,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,Maybe,Not sad,Evening,Yes,None,Sometimes,5,Satisfactory,Very Often,No,No,No,No,More than 10 hours,Sometimes,Never,1.0,5.0,No
+129,Male,No,Unemployed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Yes,No,Not sad,Evening,No,None,Sometimes,4,Satisfactory,Sometimes,No,No,No,No,2-5 hours,Never,Never,2.0,3.0,No
+130,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,Not sure,None,Sometimes,4,Highly supportive,Often,Maybe,No,No,No,2-5 hours,Sometimes,Never,1.0,5.0,No
+131,Female,No,Student,Tier 3 (Other cities/towns),Sad,Maybe,No,For some time,Evening,Yes,Personal,Sometimes,1,Satisfactory,Often,Yes,No,Yes,Yes,2-5 hours,Very often,Never,5.0,3.0,No
+132,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,Maybe,Significant time,Afternoon,No,Work,Often,5,Satisfactory,Never,Yes,No,No,No,2-5 hours,Sometimes,Never,3.0,5.0,Yes
+133,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,No,Work,Very Often,5,Not at all,Never,No,No,No,No,More than 10 hours,Never,Never,1.0,5.0,Yes
+134,Female,No,Student,Tier 3 (Other cities/towns),Depressed,No,Yes,Long time,Morning,Yes,None,Never,1,Not at all,Never,No,Maybe,Yes,Yes,More than 10 hours,Sometimes,Sometimes,5.0,1.0,Yes
+135,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,Yes,Not sad,Evening,Not sure,Work,Sometimes,4,Satisfactory,Often,Maybe,Yes,Maybe,No,2-5 hours,Sometimes,Never,2.0,5.0,No
+136,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Afternoon,No,Work,Very Often,3,Satisfactory,Never,Maybe,No,No,Maybe,2-5 hours,Sometimes,Never,3.0,3.0,No
+137,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,Not sure,Personal,Often,4,Satisfactory,Often,Yes,No,No,No,2-5 hours,Sometimes,Never,2.0,5.0,No
+138,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Not sad,Evening,No,Work,Sometimes,4,Highly supportive,Often,No,No,No,Maybe,2-5 hours,Sometimes,Never,2.0,4.0,No
+139,Female,No,Employed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Significant time,Evening,Yes,Work,Sometimes,5,Satisfactory,Often,Yes,No,Yes,No,2-5 hours,Sometimes,Never,3.0,4.0,Yes
+140,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,No,None,Very Often,5,Highly supportive,Very Often,Yes,No,No,No,1-2 hours,Sometimes,Never,5.0,5.0,No
+141,Male,No,Student,Tier 3 (Other cities/towns),Good,No,No,For some time,Afternoon,No,Work,Sometimes,2,Highly supportive,Never,Maybe,No,No,Maybe,5-10 hours,Sometimes,Never,2.0,2.0,No
+142,Female,Yes,Employed,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Morning,No,Personal,Sometimes,3,Satisfactory,Sometimes,Maybe,No,Yes,Yes,2-5 hours,Often,Never,2.0,5.0,No
+143,Male,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,Maybe,Significant time,Evening,Not sure,Work,Sometimes,2,Little bit,Sometimes,Maybe,Maybe,Yes,Maybe,2-5 hours,Sometimes,Never,3.0,3.0,No
+144,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Evening,Not sure,"Home, Personal",Sometimes,3,Not at all,Sometimes,Maybe,No,Yes,Maybe,1-2 hours,Sometimes,Never,3.0,4.0,No
+145,Female,Yes,Unemployed,Tier 3 (Other cities/towns),Good,Yes,Maybe,For some time,Morning,No,Personal,Sometimes,3,Satisfactory,Sometimes,Yes,No,No,No,2-5 hours,Very often,Never,4.0,5.0,Yes
+146,Female,Yes,Self-Employed,Tier 3 (Other cities/towns),Good,Yes,No,Significant time,Afternoon,No,Work,Often,3,Satisfactory,Often,Maybe,No,No,Maybe,1-2 hours,Sometimes,Never,2.0,5.0,No
+147,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,No,For some time,Evening,Not sure,Work,Often,4,Satisfactory,Often,Maybe,No,Maybe,Maybe,2-5 hours,Never,Never,3.0,3.0,No
+148,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,No,Long time,Evening,Not sure,"Home, Work, Financial, Personal",Never,1,Little bit,Sometimes,Yes,No,Yes,Yes,5-10 hours,Very often,Never,5.0,2.0,Yes
+149,Male,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,Not sad,Evening,Not sure,Personal,Very Often,5,Satisfactory,Sometimes,Yes,No,No,No,1-2 hours,Sometimes,Never,1.0,5.0,Yes
+150,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,Yes,For some time,Morning,No,None,Often,4,Highly supportive,Often,No,No,No,No,2-5 hours,Never,Never,1.0,5.0,No
+151,Female,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Maybe,Maybe,Significant time,Afternoon,Yes,Personal,Sometimes,3,Satisfactory,Often,Maybe,No,No,No,5-10 hours,Often,Never,4.0,4.0,Yes
+152,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,Maybe,For some time,Evening,No,"Work, Personal",Often,3,Little bit,Often,Maybe,No,Yes,Yes,2-5 hours,Very often,Never,5.0,4.0,Yes
+153,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Evening,Yes,"Work, Personal",Sometimes,1,Satisfactory,Often,No,No,Maybe,Maybe,5-10 hours,Often,Never,4.0,2.0,No
+154,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Evening,Not sure,Financial,Very Often,5,Satisfactory,Sometimes,Maybe,No,No,No,2-5 hours,Sometimes,Often,3.0,5.0,Yes
+155,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,Yes,Long time,Afternoon,Not sure,Personal,Sometimes,1,Not at all,Sometimes,Yes,No,No,Yes,1-2 hours,Very often,Never,5.0,5.0,Yes
+156,Female,Yes,Unemployed,Tier 3 (Other cities/towns),Sad,Yes,Maybe,Long time,Evening,Not sure,Home,Never,1,Not at all,Sometimes,Yes,No,Yes,Yes,More than 10 hours,Very often,Never,5.0,2.0,Yes
+157,Male,Yes,Employed,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,Yes,Personal,Very Often,5,Satisfactory,Sometimes,No,No,Maybe,Yes,2-5 hours,Sometimes,Never,1.0,5.0,Yes
+158,Male,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,Not sad,Evening,No,None,Very Often,5,Highly supportive,Often,No,No,No,No,1-2 hours,Never,Never,1.0,5.0,No
+159,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Afternoon,Not sure,"Home, Work, Personal",Sometimes,2,Little bit,Sometimes,Yes,No,Yes,Yes,5-10 hours,Sometimes,Never,2.0,4.0,No
+160,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,Yes,No,Long time,Afternoon,No,Financial,Sometimes,3,Satisfactory,Often,No,No,Yes,No,5-10 hours,Often,Often,4.0,1.0,Yes
+161,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Significant time,Evening,Not sure,"Home, Work, Financial, Personal",Sometimes,3,Satisfactory,Very Often,Yes,No,Maybe,No,5-10 hours,Often,Never,4.0,3.0,Yes
+162,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Sad,Yes,Yes,Significant time,Afternoon,No,"Work, Financial, Personal",Often,3,Satisfactory,Often,Yes,No,Yes,Yes,5-10 hours,Sometimes,Never,3.0,5.0,Yes
+163,Female,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Yes,No,Not sad,Morning,No,None,Very Often,4,Satisfactory,Very Often,Maybe,Yes,No,No,5-10 hours,Very often,Sometimes,4.0,5.0,Yes
+164,Female,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Evening,No,None,Sometimes,4,Highly supportive,Often,Maybe,No,No,No,2-5 hours,Sometimes,Never,2.0,5.0,No
+165,Female,No,Student,Tier 3 (Other cities/towns),Fine,No,No,Long time,Evening,Yes,Personal,Sometimes,4,Highly supportive,Very Often,Yes,No,Yes,No,5-10 hours,Very often,Sometimes,5.0,4.0,Yes
+166,Female,Yes,Student,Tier 3 (Other cities/towns),Depressed,Yes,Yes,Significant time,Evening,Yes,Personal,Sometimes,1,Not at all,Never,Yes,Yes,Yes,Yes,More than 10 hours,Very often,Never,5.0,5.0,Yes
+167,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,Not sure,Personal,Sometimes,4,Satisfactory,Very Often,Yes,No,No,Maybe,2-5 hours,Sometimes,Never,1.0,5.0,No
+168,Male,No,Student,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,Yes,No,For some time,Evening,No,Work,Often,3,Satisfactory,Sometimes,Yes,No,Yes,Maybe,5-10 hours,Never,Never,3.0,4.0,Yes
+169,Female,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,No,Financial,Sometimes,4,Satisfactory,Sometimes,No,No,No,No,2-5 hours,Sometimes,Never,2.0,5.0,No
+170,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,For some time,Evening,Yes,"Financial, Personal",Often,4,Satisfactory,Often,Yes,No,Yes,Yes,5-10 hours,Sometimes,Often,3.0,5.0,Yes
+171,Male,Yes,Self-Employed,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,Yes,None,Sometimes,4,Satisfactory,Never,No,No,No,No,1-2 hours,Sometimes,Never,2.0,4.0,No
+172,Female,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Afternoon,Not sure,Work,Very Often,3,Highly supportive,Very Often,Yes,No,Yes,Yes,2-5 hours,Sometimes,Never,3.0,5.0,No
+173,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Morning,No,None,Very Often,5,Satisfactory,Often,No,No,No,No,5-10 hours,Sometimes,Never,3.0,5.0,Yes
+174,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,For some time,Evening,Not sure,Personal,Sometimes,1,Satisfactory,Often,Yes,No,Yes,No,2-5 hours,Sometimes,Never,1.0,5.0,No
+175,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Depressed,No,Yes,Significant time,Evening,No,"Home, Work, Financial",Very Often,5,Little bit,Very Often,Yes,No,Yes,Yes,More than 10 hours,Very often,Never,5.0,1.0,Yes
+176,Male,Yes,Self-Employed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Not sad,Morning,No,Financial,Often,5,Highly supportive,Very Often,Yes,No,No,No,5-10 hours,Sometimes,Sometimes,1.0,5.0,No
+177,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Yes,For some time,Morning,Not sure,Personal,Very Often,3,Satisfactory,Sometimes,Maybe,Yes,No,Maybe,2-5 hours,Very often,Never,3.0,5.0,Yes
+178,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Yes,Significant time,Evening,Yes,Personal,Sometimes,1,Little bit,Sometimes,Yes,No,Yes,Yes,2-5 hours,Sometimes,Never,5.0,4.0,Yes
+179,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,No,For some time,Evening,No,Work,Very Often,3,Satisfactory,Often,No,No,No,Yes,1-2 hours,Sometimes,Never,1.0,3.0,No
+180,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,Maybe,Significant time,Evening,No,"Home, Financial",Sometimes,4,Satisfactory,Often,No,No,No,No,5-10 hours,Sometimes,Never,1.0,5.0,Yes
+181,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Maybe,Long time,Evening,No,Personal,Sometimes,3,Little bit,Sometimes,Yes,Yes,Yes,Yes,5-10 hours,Sometimes,Never,3.0,3.0,Yes
+182,Male,Yes,Self-Employed,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,No,"Work, Financial",Often,4,Satisfactory,Often,Yes,Maybe,No,No,2-5 hours,Never,Never,1.0,5.0,No
+183,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Not sad,Evening,Not sure,Financial,Often,5,Satisfactory,Often,No,No,No,No,5-10 hours,Never,Never,5.0,5.0,Yes
+184,Male,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Fine,No,No,For some time,Evening,No,Work,Sometimes,4,Satisfactory,Often,Yes,No,No,No,More than 10 hours,Sometimes,Sometimes,2.0,3.0,Yes
+185,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Evening,Yes,"Work, Personal",Very Often,5,Satisfactory,Often,No,No,No,No,2-5 hours,Never,Never,5.0,5.0,Yes
+186,Female,No,Student,Tier 3 (Other cities/towns),Sad,Yes,No,For some time,Evening,Not sure,"Home, Personal",Sometimes,4,Satisfactory,Sometimes,Yes,No,Maybe,No,2-5 hours,Sometimes,Never,3.0,5.0,No
+187,Female,Yes,Employed,"Tier 1 (Delhi, Mumbai, Bangalore, Chennai, Kolkata)",Good,Yes,No,For some time,Evening,Yes,Personal,Never,5,Highly supportive,Sometimes,Yes,No,No,No,1-2 hours,Often,Never,2.0,5.0,No
+188,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Afternoon,Yes,Personal,Very Often,5,Highly supportive,Sometimes,Yes,No,No,No,More than 10 hours,Never,Sometimes,3.0,5.0,Yes
+189,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Maybe,No,Not sad,Afternoon,Yes,Personal,Very Often,3,Satisfactory,Often,No,No,No,No,5-10 hours,Never,Never,2.0,5.0,No
+190,Male,Yes,Self-Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,Yes,For some time,Evening,Yes,"Personal, None",Very Often,5,Satisfactory,Very Often,Yes,No,No,No,2-5 hours,Sometimes,Sometimes,1.0,5.0,No
+191,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Sad,No,Yes,For some time,Afternoon,Yes,"Home, Work",Very Often,2,Satisfactory,Never,No,No,Yes,Yes,5-10 hours,Sometimes,Never,2.0,3.0,Yes
+192,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,No,Significant time,Evening,Not sure,"Home, Personal",Sometimes,3,Highly supportive,Often,Yes,No,Yes,Yes,5-10 hours,Very often,Never,4.0,4.0,Yes
+193,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,Maybe,For some time,Afternoon,No,Personal,Often,3,Satisfactory,Sometimes,No,No,Yes,Yes,2-5 hours,Often,Never,3.0,3.0,Yes
+194,Male,No,Student,Tier 3 (Other cities/towns),Good,Yes,No,Not sad,Evening,No,Home,Often,5,Satisfactory,Often,No,No,No,No,2-5 hours,Sometimes,Never,1.0,5.0,No
+195,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,No,Significant time,Evening,No,"Home, Work, Personal",Often,2,Little bit,Often,Yes,No,Yes,Yes,2-5 hours,Often,Never,3.0,3.0,Yes
+196,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Yes,Long time,Evening,Not sure,Personal,Sometimes,2,Not at all,Sometimes,Yes,No,Yes,Yes,2-5 hours,Very often,Never,4.0,1.0,Yes
+197,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Sad,No,No,Long time,Evening,No,"Home, Work, Financial, Personal, None",Often,3,Little bit,Often,No,No,No,Maybe,5-10 hours,Often,Often,3.0,1.0,Yes
+198,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,No,Significant time,Morning,Yes,"Work, Personal",Often,5,Little bit,Often,No,No,No,No,2-5 hours,Often,Often,4.0,4.0,Yes
+199,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Sad,Yes,Yes,Long time,Evening,Yes,"Home, Personal",Sometimes,3,Little bit,Sometimes,Maybe,No,Yes,Maybe,2-5 hours,Very often,Never,4.0,3.0,Yes
+200,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Not sad,Morning,Yes,None,Never,3,Satisfactory,Sometimes,No,No,Maybe,Maybe,5-10 hours,Sometimes,Never,2.0,4.0,No
+201,Prefer not to say,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,No,Maybe,Significant time,Evening,No,"Home, Personal",Very Often,2,Little bit,Never,Yes,No,Yes,Yes,5-10 hours,Sometimes,Never,4.0,2.0,Yes
+202,Male,Yes,Employed,Tier 3 (Other cities/towns),Good,Yes,No,For some time,Evening,No,Financial,Sometimes,4,Highly supportive,Very Often,No,No,No,No,1-2 hours,Sometimes,Never,1.0,4.0,No
+203,Female,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Sad,Maybe,Yes,Significant time,Evening,Not sure,"Home, Personal",Sometimes,2,Little bit,Never,Yes,Maybe,Yes,Maybe,5-10 hours,Very often,Never,4.0,2.0,Yes
+204,Male,Yes,Unemployed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Long time,Evening,No,Work,Often,5,Satisfactory,Often,Yes,No,Yes,Yes,2-5 hours,Sometimes,Often,4.0,4.0,Yes
+205,Male,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Good,Yes,No,Significant time,Evening,No,"Home, Work, Financial",Often,5,Highly supportive,Often,Maybe,No,No,No,2-5 hours,Often,Never,1.0,5.0,No
+206,Prefer not to say,No,Self-Employed,Tier 3 (Other cities/towns),Depressed,No,Yes,Not sad,Morning,Yes,"Home, Work, Personal, None",Never,1,Not at all,Very Often,No,Yes,Yes,No,More than 10 hours,Very often,Very Often,5.0,5.0,Yes
+207,Male,No,Student,Tier 2 (Capital cities Eg. Lucknow ),Fine,Maybe,No,Not sad,Evening,Not sure,Home,Never,5,Not at all,Never,Maybe,Maybe,Maybe,Maybe,2-5 hours,Never,Never,5.0,5.0,Yes
+208,Female,Yes,Employed,Tier 2 (Capital cities Eg. Lucknow ),Fine,Yes,Yes,For some time,Morning,Yes,Personal,Sometimes,4,Highly supportive,Often,Yes,No,No,Maybe,2-5 hours,Sometimes,Never,3.0,3.0,No
